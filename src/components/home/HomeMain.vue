@@ -17,8 +17,13 @@
     </p>
     <p class="main-home__text">
       Mi principal habilidad no es el conocimiento de ninguna tecnología, lenguaje o herramienta particular. Mi principal
-      habilidad es la de aprender. Y es esta sed de conocimiento la que me hace querer aprender cada nueva
-      tecnología, herramienta o proceso que aparece para aportar a mi capacidad de crecer y a mi equipo de trabajo.
+      habilidad y lo que más me motiva, es aprender. Es esto lo que indirectamente me hace crecer y evolucionar
+      constantemente, ya no solo en el mundo del desarrollo, si no en otro tipo de competencias como lo son el diseño
+      gráfico, el marketing, el desarrollo personal, las finanzas y una serie de habilidades complementarias que
+      me permiten tener un mejor contexto a la hora de abordar diferentes problemas, ya que estas suplementan
+      a otras en el periodo de aprendizaje, mejorando cada vez más los tiempos a la hora de adquirir nuevas habilidades
+      en un área concreta. A esto se le llama la multipotencialidad.
+
     </p>
     <p class="main-home__text">
       Es por eso que en estos dos últimos años he podido trabajar en proyectos de desarrollo de RPAs, construido
