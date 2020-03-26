@@ -2,36 +2,37 @@
   <section class="main-home">
     <h1 class="main-home__title">Jose C. Fernández</h1>
     <p class="main-home__subtitle">Desarrollador multidisciplinar y creativo, persona multipotencial, emprendedor, con un gran
-      interés en el desarrollo personal y humano, liderazgo, ética y arte.</p>
+      interés en el desarrollo personal y humano, así como en el liderazgo, la ética y el arte.</p>
     <p class="main-home__text">
-      Tengo 7 años de experiencia dentro del desarrollo full-stack (he variado desde el backend hasta el frontend).
+      Tengo 7 años de experiencia dentro del desarrollo full-stack.
       Me ha tocado desempeñar roles de análisis, arquitectura y liderazgo dentro de los equipos en los que he trabajado.
     </p>
     <p class="main-home__text">
-      Éste último año ejerzo el rol de Tech Lead Engineer en un proyecto ágil de desarrollo de videojuegos de casino
+      Éste último año vengo ejerciendo el rol de Tech Lead Engineer en un proyecto ágil de desarrollo de videojuegos de casino
       usando tecnologías frontend de vanguardia: ES6, reactividad, mobx, webpack, babel, i18next, etc.
     </p>
     <p class="main-home__text">
       Mis proyectos favoritos son aquellos donde tengo la posibilidad de combinar varias de mis habilidades y
-      concimientos con el fin de poder construir y gestionar soluciones inteligentes para problemas complejos.
+      conocimientos con el fin de poder construir y gestionar soluciones inteligentes para problemas complejos.
     </p>
     <p class="main-home__text">
       Mi principal habilidad no es el conocimiento de ninguna tecnología, lenguaje o herramienta particular. Mi principal
-      habilidad es la de aprender. Y es este hambre de conocimiento el que me hace querer aprender cada nueva
-      tecnología, herramienta o proceso que aparece y puede aportar algo a mi capacidad de crecer y a mi equipo de trabajo.
+      habilidad es la de aprender. Y es esta sed de conocimiento la que me hace querer aprender cada nueva
+      tecnología, herramienta o proceso que aparece para aportar a mi capacidad de crecer y a mi equipo de trabajo.
     </p>
     <p class="main-home__text">
       Es por eso que en estos dos últimos años he podido trabajar en proyectos de desarrollo de RPAs, construido
-      una Blockchain desde 0 para una empresa líder del sector aeroespacial, proyectos de análsis y arquitectura,
-      una plataforma de aprendizaje de matemáticas y, actualmente, aprendiendo a liderar un equipo a nivel de ingeniería,
-      en el mundo del videojuego y el negocio de los juegos de casino.
+      una Blockchain desde 0 para una empresa líder del sector aeroespacial, proyectos de análsis y arquitectura y creado
+      una plataforma de aprendizaje de matemáticas a nivel de negocio y desarrollo. Actualmente lidero  un equipo a
+      nivel de ingeniería en el mundo del videojuego y el negocio de los juegos de casino.
     </p>
     <p class="main-home__text">
-      Actualmente no busco trabajo activamente, pero siempre estoy abierto a propuestas interesantes. Estoy disponible
-      para charlar, debatir, aprender o colaborar en proyectos freelances a través de mi email <u>jocafernanro@gmail.com</u>
+      Aunque en estos momentos no me encuentro en una búsqueda activa de trabajo, siempre estoy abierto a propuestas interesantes. Estoy disponible
+      para charlar, debatir, aprender o colaborar en proyectos freelance a través de mi email <u>jocafernanro@gmail.com</u>
     </p>
     <p class="main-home__text">
-      Tecnologías clave para desempeñar estos papeles: Python, Django, Django Rest Framework, Falcon, gRPC, Javascript, Vue, Angular, UiPath, MySql, PostgreSQL, MongoDB y muchas por ahí perdidas :P
+      Tecnologías clave para desempeñar estos papeles: Python, Django, Django Rest Framework, Falcon, gRPC, Javascript,
+      Vue, Angular, UiPath, MySql, PostgreSQL, MongoDB y muchas más por ahí perdidas.
     </p>
     <p class="main-home__text">
       Tecnologías con las que estoy empezando o me muero por aprender: Unity, rust, machine learning y react.
