@@ -1,4 +1,4 @@
-# personal-web
+# Josematico - Personal Web
 
 ## Project setup
 ```
@@ -18,6 +18,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Deploys in Now
+```
+npm run deploy
 ```
 
 ### Customize configuration
