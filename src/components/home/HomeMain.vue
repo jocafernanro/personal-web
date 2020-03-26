@@ -24,15 +24,15 @@
     </p>
     <p class="main-home__text">
       A esto se le llama multipotencialidad y tiene dos claras ventajas: Aprendizaje acelerado y síntesis de ideas.
-      Esto me permite conectar esas diferentes disciplinas para suplementar el periodo de aprendizaje y acelerar el proceso
-      debido al uso de otra característica, los conocimientos transversales o transferibles. Es por eso que se dice que
-      los multipotenciales no comienzan a aprender desde 0, sino que nos centramos en los huecos libres que dejan las
-      otras habilidades ya conocidas.
+      Esas cualidades me permiten conectar diferentes disciplinas conocidas para suplementar el periodo de aprendizaje
+      y acelerar el proceso debido al uso de otra característica, los conocimientos transversales o transferibles.
+      Es por eso que se dice que los multipotenciales no comienzan a aprender desde 0, sino que nos centramos en los
+      huecos libres que dejan las otras habilidades ya conocidas.
     </p>
     <p class="main-home__text">
       Es por eso que en estos dos últimos años he podido trabajar en proyectos muy diferentes entre sí, como proyectos
       de desarrollo de RPAs, construir una Blockchain desde 0 para una empresa líder del sector aeroespacial,
-      proyectos de análsis y arquitectura y creado una plataforma de aprendizaje de matemáticas a nivel de negocio y
+      proyectos de análisis y arquitectura y creado una plataforma de aprendizaje de matemáticas a nivel de negocio y
       desarrollo. Actualmente lidero  un equipo a nivel de ingeniería en el mundo del videojuego y el negocio de los
       juegos de casino.
     </p>
