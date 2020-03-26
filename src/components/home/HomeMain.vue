@@ -27,8 +27,8 @@
       en el mundo del videojuego y el negocio de los juegos de casino.
     </p>
     <p class="main-home__text">
-      Actualmente no busco trabajo profesional, pero siempre estoy abierto a propuestas interesantes. Estoy disponible
-      para charlar, debatir, aprender o apuntarme a proyectos freelances a través de mi email <u>jocafernanro@gmail.com</u>
+      Actualmente no busco trabajo activamente, pero siempre estoy abierto a propuestas interesantes. Estoy disponible
+      para charlar, debatir, aprender o colaborar en proyectos freelances a través de mi email <u>jocafernanro@gmail.com</u>
     </p>
     <p class="main-home__text">
       Tecnologías clave para desempeñar estos papeles: Python, Django, Django Rest Framework, Falcon, gRPC, Javascript, Vue, Angular, UiPath, MySql, PostgreSQL, MongoDB y muchas por ahí perdidas :P
