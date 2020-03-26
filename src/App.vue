@@ -2,7 +2,6 @@
   <div id="app">
     <home-header></home-header>
     <home-main></home-main>
-    <home-footer></home-footer>
   </div>
 </template>
 
@@ -10,12 +9,10 @@
 
 import HomeHeader from './components/home/HomeHeader'
 import HomeMain from './components/home/HomeMain'
-import HomeFooter from './components/home/HomeFooter'
 
 export default {
   name: 'App',
   components: {
-    HomeFooter,
     HomeMain,
     HomeHeader
   }
