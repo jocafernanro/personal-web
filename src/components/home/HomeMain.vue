@@ -1,28 +1,28 @@
 <template>
   <section class="main-home">
     <h1 class="main-home__title">Jose C. Fernández</h1>
-    <p class="main-home__subtitle">Desarrollador multidisciplinar y creativo, persona multipotencia, emprendedor, con un gran
+    <p class="main-home__subtitle">Desarrollador multidisciplinar y creativo, persona multipotencial, emprendedor, con un gran
       interés en el desarrollo personal y humano, liderazgo, ética y arte.</p>
     <p class="main-home__text">
       Tengo 7 años de experiencia dentro del desarrollo full-stack (he variado desde el backend hasta el frontend).
-      Me ha tocado desempeñar roles de análisis, arquitectura y liderzago dentro de los equipos en los que he trabajado.
+      Me ha tocado desempeñar roles de análisis, arquitectura y liderazgo dentro de los equipos en los que he trabajado.
     </p>
     <p class="main-home__text">
-      Éste último año desempeño el rol de Tech Lead Engineer en un proyecto ágil de desarrollo de videojuegos de casino
+      Éste último año ejerzo el rol de Tech Lead Engineer en un proyecto ágil de desarrollo de videojuegos de casino
       usando tecnologías frontend de vanguardia: ES6, reactividad, mobx, webpack, babel, i18next, etc.
     </p>
     <p class="main-home__text">
       Mis proyectos favoritos son aquellos donde tengo la posibilidad de combinar varias de mis habilidades y
-      concimientos donde poder construir y gestionar soluciones inteligentes para problemas complejos.
+      concimientos con el fin de poder construir y gestionar soluciones inteligentes para problemas complejos.
     </p>
     <p class="main-home__text">
-      Mi principal habilidad no es el conocimiento de ninguna tecnología, lenguaje o herramienta concreta. Mi principal
+      Mi principal habilidad no es el conocimiento de ninguna tecnología, lenguaje o herramienta particular. Mi principal
       habilidad es la de aprender. Y es este hambre de conocimiento el que me hace querer aprender cada nueva
-      tecnología, herramienta o proceso que aparece y puede aportar algo a mi capacidad de crecer y mi equipo de trabajo.
+      tecnología, herramienta o proceso que aparece y puede aportar algo a mi capacidad de crecer y a mi equipo de trabajo.
     </p>
     <p class="main-home__text">
       Es por eso que en estos dos últimos años he podido trabajar en proyectos de desarrollo de RPAs, construido
-      una Blockchain desde 0 para una empresa líder del sector aeronáutico, proyectos de análsis y arquitectura,
+      una Blockchain desde 0 para una empresa líder del sector aeroespacial, proyectos de análsis y arquitectura,
       una plataforma de aprendizaje de matemáticas y, actualmente, aprendiendo a liderar un equipo a nivel de ingeniería,
       en el mundo del videojuego y el negocio de los juegos de casino.
     </p>
