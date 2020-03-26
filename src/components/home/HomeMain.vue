@@ -17,19 +17,24 @@
     </p>
     <p class="main-home__text">
       Mi principal habilidad no es el conocimiento de ninguna tecnología, lenguaje o herramienta particular. Mi principal
-      habilidad y lo que más me motiva, es aprender. Es esto lo que indirectamente me hace crecer y evolucionar
-      constantemente, ya no solo en el mundo del desarrollo, si no en otro tipo de competencias como lo son el diseño
+      habilidad y lo que más me motiva es aprender. Es esto lo que indirectamente me hace crecer y evolucionar
+      constantemente, ya no solo en el mundo del desarrollo, sino en otro tipo de competencias como lo son el diseño
       gráfico, el marketing, el desarrollo personal, las finanzas y una serie de habilidades complementarias que
-      me permiten tener un mejor contexto a la hora de abordar diferentes problemas, ya que estas suplementan
-      a otras en el periodo de aprendizaje, mejorando cada vez más los tiempos a la hora de adquirir nuevas habilidades
-      en un área concreta. A esto se le llama la multipotencialidad.
-
+      me permiten tener un mejor contexto a la hora de abordar diferentes problemas.
     </p>
     <p class="main-home__text">
-      Es por eso que en estos dos últimos años he podido trabajar en proyectos de desarrollo de RPAs, construido
-      una Blockchain desde 0 para una empresa líder del sector aeroespacial, proyectos de análsis y arquitectura y creado
-      una plataforma de aprendizaje de matemáticas a nivel de negocio y desarrollo. Actualmente lidero  un equipo a
-      nivel de ingeniería en el mundo del videojuego y el negocio de los juegos de casino.
+      A esto se le llama multipotencialidad y tiene dos claras ventajas: Aprendizaje acelerado y síntesis de ideas.
+      Esto me permite conectar esas diferentes disciplinas para suplementar el periodo de aprendizaje y acelerar el proceso
+      debido al uso de otra característica, los conocimientos transversales o transferibles. Es por eso que se dice que
+      los multipotenciales no comienzan a aprender desde 0, sino que nos centramos en los huecos libres que dejan las
+      otras habilidades ya conocidas.
+    </p>
+    <p class="main-home__text">
+      Es por eso que en estos dos últimos años he podido trabajar en proyectos muy diferentes entre sí, como proyectos
+      de desarrollo de RPAs, construir una Blockchain desde 0 para una empresa líder del sector aeroespacial,
+      proyectos de análsis y arquitectura y creado una plataforma de aprendizaje de matemáticas a nivel de negocio y
+      desarrollo. Actualmente lidero  un equipo a nivel de ingeniería en el mundo del videojuego y el negocio de los
+      juegos de casino.
     </p>
     <p class="main-home__text">
       Aunque en estos momentos no me encuentro en una búsqueda activa de trabajo, siempre estoy abierto a propuestas interesantes. Estoy disponible
