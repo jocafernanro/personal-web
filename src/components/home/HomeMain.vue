@@ -19,7 +19,7 @@
       Mi principal habilidad no es el conocimiento de ninguna tecnología, lenguaje o herramienta particular. Mi principal
       habilidad y lo que más me motiva es aprender. Es esto lo que indirectamente me hace crecer y evolucionar
       constantemente, ya no solo en el mundo del desarrollo, sino en otro tipo de competencias como lo son el diseño
-      gráfico, el marketing, el desarrollo personal, las finanzas y una serie de habilidades complementarias que
+      gráfico, el marketing, el desarrollo personal, las finanzas. la fotografía, la música y una serie de habilidades complementarias que
       me permiten tener un mejor contexto a la hora de abordar diferentes problemas.
     </p>
     <p class="main-home__text">
