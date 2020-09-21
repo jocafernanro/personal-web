@@ -2,9 +2,9 @@
   <header class="home-header">
     <nav class="home-header__nav">
       <ul class="home-header__menu">
+        <li class="home-header__item"><a class="home-header__link" href="https://www.linkedin.com/in/jocafernanro/"><i class="fab fa-linkedin"></i>Linkedin</a></li>
         <li class="home-header__item"><a class="home-header__link" href="https://github.com/jocafernanro"><i class="fab fa-github-alt"></i>Github</a></li>
         <li class="home-header__item"><a class="home-header__link" href="https://codepen.io/jocafernanro"><i class="fab fa-codepen"></i>Codepen</a></li>
-        <li class="home-header__item"><a class="home-header__link" href="https://dev.to/jocafernanro"><i class="fab fa-dev"></i>Dev.to</a></li>
       </ul>
     </nav>
   </header>
