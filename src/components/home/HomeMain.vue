@@ -4,7 +4,7 @@
     <p class="main-home__subtitle">Desarrollador multidisciplinar y creativo, persona multipotencial, emprendedor, con un gran
       interés en el desarrollo personal y humano, así como en el liderazgo, la ética y el arte.</p>
     <p class="main-home__text">
-      Tengo 7 años de experiencia dentro del desarrollo full-stack.
+      Tengo 9 años de experiencia dentro del desarrollo full-stack.
       Me ha tocado desempeñar roles de análisis, arquitectura y liderazgo dentro de los equipos en los que he trabajado.
     </p>
     <p class="main-home__text">
@@ -48,6 +48,7 @@
       Tecnologías con las que estoy empezando o me muero por aprender: Unity, rust, machine learning y react.
     </p>
     <p class="main-home__location"><i class="fas fa-map-marker"></i> Establecido en Sevilla, España</p>
+    <p class="main-home__location"></i> Última actualización: 29 Abril 2022</p>
   </section>
 </template>
 
