@@ -48,7 +48,7 @@
       Tecnologías con las que estoy empezando o me muero por aprender: Unity, rust, machine learning y react.
     </p>
     <p class="main-home__location"><i class="fas fa-map-marker"></i> Establecido en Sevilla, España</p>
-    <p class="main-home__location">Última actualización: 29 Abril 2022</p>
+    <p class="main-home__update">Última actualización: 29 Abril 2022</p>
   </section>
 </template>
 
@@ -90,8 +90,12 @@ export default {
     &__location {
       font-size: var(--text-location-size);
       .fas{
-        margin: 0 1em 0 0;
+        margin: 1em 0;
       }
+    }
+
+    &__update {
+      padding: 0 0 1em 0;
     }
   }
 </style>
