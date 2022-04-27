@@ -48,7 +48,7 @@
       Tecnologías con las que estoy empezando o me muero por aprender: Unity, rust, machine learning y react.
     </p>
     <p class="main-home__location"><i class="fas fa-map-marker"></i> Establecido en Sevilla, España</p>
-    <p class="main-home__location"></i> Última actualización: 29 Abril 2022</p>
+    <p class="main-home__location">Última actualización: 29 Abril 2022</p>
   </section>
 </template>
 
